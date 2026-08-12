@@ -7,7 +7,9 @@ Hello Internet, this is Kawa!
 
 I am a data analyst with experience in healthcare and supportive housing. My experience runs throughout the pipeline, though I'm at my best with visualization and storytelling. 
 
-I am currently a volunteer with [Data for Good Vancouver](https://vancouver.dataforgood.ca/), helping a nonprofit in supportive housing modernize their incident reporting process. 
+I am currently a data analyst at [Policy Reporter](https://policyreporter.com), but none of that work is on this account.
+
+I was recently a volunteer with [Data for Good Vancouver](https://vancouver.dataforgood.ca/), helping a nonprofit in supportive housing modernize their incident reporting process. 
 
 # Encouraging the best in indie games
 
