@@ -7,7 +7,7 @@ Hello Internet, this is Kawa!
 
 I am a data analyst with experience in healthcare and supportive housing. My experience runs throughout the pipeline, though I'm at my best with visualization and storytelling. 
 
-I am currently a data analyst at [Policy Reporter](https://policyreporter.com), but none of that work is on this account.
+I am currently a data analyst at [Policy Reporter](https://policyreporter.com), but none of that work is on this account. (However, I'll sometimes find issues in R packages over the course of personal development; I'll report those issues on this account, not the Policy Reporter account. If my issue is directly work-relevant, I'll report issues on the other account.)
 
 I was recently a volunteer with [Data for Good Vancouver](https://vancouver.dataforgood.ca/), helping a nonprofit in supportive housing modernize their incident reporting process. 
 
